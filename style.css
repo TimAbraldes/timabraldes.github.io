@@ -1,0 +1,27 @@
+/*
+    TimAbraldes GitHub Pages website
+    Copyright (C) 2015  Tim Abraldes
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+*/
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin: 0px;
+  flex-flow: column nowrap;
+}
+
+footer {
+  flex: 0 0 auto;
+  background-color: #C0C0C0;
+}
